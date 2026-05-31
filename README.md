@@ -1,2 +1,15 @@
-# FUTURE_DS_01
-Business Sales Performance Analytics
+Business-Sales-Analytics/
+│
+├── Dataset/
+│   └── superstore.csv
+│
+├── Dashboard/
+│   └── Sales_Dashboard.pbix
+│
+├── Report/
+│   └── Business_Insights.pdf
+│
+├── Images/
+│   └── dashboard.png
+│
+└── README.md
